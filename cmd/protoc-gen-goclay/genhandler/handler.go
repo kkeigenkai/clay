@@ -335,7 +335,7 @@ func (g *Generator) getDescTemplate(swagger []byte, f *descriptor.File) (string,
 		"github.com/grpc-ecosystem/grpc-gateway/v2/runtime",
 		"github.com/grpc-ecosystem/grpc-gateway/v2/utilities",
 		"google.golang.org/grpc",
-		"github.com/go-chi/chi",
+		"github.com/go-chi/chi/v5",
 		"github.com/pkg/errors",
 		"github.com/utrack/clay/v3/transport",
 	}

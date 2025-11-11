@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/v5"
 	"github.com/rakyll/statik/fs"
 	"github.com/sirupsen/logrus"
 	sum "github.com/utrack/clay/doc/example/implementation"

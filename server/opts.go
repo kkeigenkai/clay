@@ -6,7 +6,7 @@ import (
 	"github.com/utrack/clay/v3/server/middlewares/mwhttp"
 	"github.com/utrack/clay/v3/transport"
 
-	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/v5"
 	grpc_middleware "github.com/grpc-ecosystem/go-grpc-middleware"
 	"google.golang.org/grpc"
 )
