@@ -3,7 +3,7 @@ package descriptor
 import (
 	"testing"
 
-	"github.com/utrack/clay/v3/cmd/protoc-gen-goclay/third-party/grpc-gateway/internals/descriptor/openapiconfig"
+	"github.com/kkeigenkai/clay/v3/cmd/protoc-gen-goclay/third-party/grpc-gateway/internals/descriptor/openapiconfig"
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/encoding/prototext"
 	"google.golang.org/protobuf/proto"

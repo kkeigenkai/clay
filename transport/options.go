@@ -1,8 +1,8 @@
 package transport
 
 import (
-	"github.com/utrack/clay/v3/transport/httptransport"
-	"github.com/utrack/clay/v3/transport/swagger"
+	"github.com/kkeigenkai/clay/v3/transport/httptransport"
+	"github.com/kkeigenkai/clay/v3/transport/swagger"
 	"google.golang.org/grpc"
 )
 

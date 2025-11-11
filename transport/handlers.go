@@ -3,7 +3,7 @@ package transport
 import (
 	"net/http"
 
-	"github.com/utrack/clay/v3/transport/swagger"
+	"github.com/kkeigenkai/clay/v3/transport/swagger"
 	"google.golang.org/grpc"
 )
 

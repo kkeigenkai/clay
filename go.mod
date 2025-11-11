@@ -1,4 +1,4 @@
-module github.com/utrack/clay/v3
+module github.com/kkeigenkai/clay/v3
 
 require (
 	github.com/ghodss/yaml v1.0.0

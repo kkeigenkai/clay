@@ -1,7 +1,7 @@
 package mwgrpc
 
 import (
-	"github.com/utrack/clay/v3/server/middlewares/mwgrpc"
+	"github.com/kkeigenkai/clay/v3/server/middlewares/mwgrpc"
 
 	"google.golang.org/grpc"
 )

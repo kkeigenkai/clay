@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/utrack/clay/v3/cmd/protoc-gen-goclay/third-party/grpc-gateway/internals/descriptor"
+	"github.com/kkeigenkai/clay/v3/cmd/protoc-gen-goclay/third-party/grpc-gateway/internals/descriptor"
 )
 
 type param struct {

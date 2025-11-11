@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/utrack/clay/v3/server/log"
+	"github.com/kkeigenkai/clay/v3/server/log"
 )
 
 func GetLogFunc(logger interface{}) func(context.Context, string) {

@@ -5,7 +5,7 @@ package strings
 
 import (
 	desc "github.com/utrack/clay/integration/binding_with_body_and_response/pb"
-	"github.com/utrack/clay/v3/transport"
+	"github.com/kkeigenkai/clay/v3/transport"
 )
 
 type StringsImplementation struct {
